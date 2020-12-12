@@ -61,7 +61,7 @@ body {
 #btn-dark {
     cursor: pointer;
     position: absolute;
-    top: 1%;
+    top: 3px;
     left: 47%;
     border: none;
     border-radius: 50%;
