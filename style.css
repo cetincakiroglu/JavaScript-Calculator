@@ -48,6 +48,7 @@ body {
     align-content: center;
     margin: 0 auto;
     padding: 15px;
+    position: relative;
     grid-template-columns: repeat(4, 80px);
     grid-template-rows: minmax(120px, auto) repeat(5, 80px);
     box-shadow: 3px 3px 30px 3px var(--box-shadow);
@@ -60,7 +61,8 @@ body {
 #btn-dark {
     cursor: pointer;
     position: absolute;
-    top: 15%;
+    top: 1%;
+    left: 47%;
     border: none;
     border-radius: 50%;
 }
