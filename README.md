@@ -1,3 +1,3 @@
 # JavaScript-Calculator
 
-Netlify URL : https://compassionate-engelbart-50d800.netlify.app/
+Netlify URL : https://competent-sinoussi-34f30b.netlify.app/
